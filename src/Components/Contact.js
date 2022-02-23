@@ -40,7 +40,7 @@ const Contact = () => {
       </div>
       <div className='form-group message-div'>
       <label htmlFor="message">Message</label>
-      <textarea type="text" rows='10' className='inp message-box' id="message" name="message" placeholder="Your message here.."/>
+      <textarea type="text" rows='10' className='inp message-box' id="message" name="message" placeholder="..."/>
       </div>
   
       <button type='submit' className='send-btn'>Send</button>
