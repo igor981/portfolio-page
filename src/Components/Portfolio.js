@@ -29,7 +29,7 @@ const Portfolio = () => {
                   <li className='card'>
                       <h1>Todo App</h1>
                       <p>
-                        The famous "Hello world" of coding projects. A CRUD todo app where you can create, read, update and delete todos from your todo list. Created with React Redux
+                        The famous "Hello world" of coding projects. A CRUD todo app where you can create, read, update and delete todos from your todo list. Created with React-Redux
                       </p>
                   </li>
               
