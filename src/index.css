@@ -4,7 +4,7 @@
 }
 
 html, body, #root, .App {
-  background-color: black;
+  background-color: #222222;
   scroll-behavior:auto;
 }
 

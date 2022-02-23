@@ -17,6 +17,12 @@ const Portfolio = () => {
                       </p>
                   </li>
                   <li className='card'>
+                      <h1>E-Commerce</h1>
+                      <p>
+                      A fullstack e-commerce webapplication built with the MERN techstack. React front-end sends GET requests to server side API and fetches products. On The client side I used Redux to dynamically display content on the page. The app comes a cart where you can add, update and remove products. 
+                      </p>
+                  </li>
+                  <li className='card'>
                       <h1>Atlas</h1>
                       <p>Atlas is a SPA wikipedia-esque website that gathers data from several different APIs. The data inside API calls are used to call furthers APIs. This app is created with React Redux and uses a state management. The API calls are done through a backend built with express. </p>
                   </li>
