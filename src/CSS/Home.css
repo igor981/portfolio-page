@@ -1,4 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Cardo&family=Oswald&display=swap');
+
+.porto-description {
+  font-family: 'Cardo', serif;
+  font-size: 0.9rem;
+}
+
+.port-name {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1rem;
+
+}
 @media screen and (min-width: 700px){
 
 .home-title{
@@ -6,6 +17,7 @@
   height: 100vh;
   
 }
+
 
 
 .contact-btn{
@@ -219,7 +231,7 @@
     justify-content: center;
     
   }
-  
+
   
   .contact-btn{
     height: 50px;
@@ -354,6 +366,13 @@
     font-size: 12px;
     
   }
+
+  .porto-description {
+    font-family: 'Cardo', serif;
+    font-size: 0.8rem;
+  }
+
+  
 
   .wrapper {
     width: 80%;
