@@ -29,6 +29,12 @@ const Portfolio = () => {
                       </p>
                   </li>
                   <li className='card'>
+                      <h1 className='port-name'>The Pizza Place</h1>
+                      <p className='porto-description'>
+                      A pizza ordering app built with TypeScript and React-Redux. Using an external api, the app gets a list of restaurants. The restaurants get rendered in a list, ordered by distance by comparing latitude and longtitude of the user and each restaurant. Clicking on a restaurant navigates you to the restaurants page where you get a menu. You can add, remove and change quantity of each product to your cart and place an order.
+                      </p>
+                  </li>
+                  <li className='card'>
                       <h1 className='port-name'>Atlas</h1>
                       <p className='porto-description'>Atlas is a SPA wikipedia-esque website that gathers data from several different APIs. The data inside API calls are used to call furthers APIs. This app is created with React Redux and uses a state management. The API calls are done through a backend built with express. </p>
                   </li>

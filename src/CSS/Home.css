@@ -5,6 +5,26 @@
   font-size: 0.9rem;
 }
 
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #aaaaaa;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #75e4c3;;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #55a58d;
+}
+
 .port-name {
   font-family: 'Oswald', sans-serif;
   font-size: 1rem;
