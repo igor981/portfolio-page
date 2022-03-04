@@ -19,7 +19,7 @@ const Portfolio = () => {
                   <li className='card'>
                       <h1 className='port-name'>EZlog *In progress*</h1>
                       <p className='porto-description'>
-                      A fullstack application using the PERN techstack. EZlog is a ticket system for bugs. As a user you can either create or join an organisation. The organisation consists of members, projects and tickets. You can open/close tickets and you can add individual users to tickets. 
+                      A fullstack application using the PERN techstack. EZlog is a ticket system for bugs. As a user you can either create or join an organisation. The organisation consists of members, projects and tickets. You can open or close tickets and you can add individual users to tickets. 
                       </p>
                   </li>
                   <li className='card'>
