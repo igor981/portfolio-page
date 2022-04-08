@@ -26,7 +26,7 @@ const Home = () => {
       <div className='page-content'>
         <section>
         <div className='home-title'>
-          <h1 className='title-name'>Igor Doroshkevich</h1>
+          <h1 className='title-name'>Igor Jakubek</h1>
           <h2 className='title-desc'>Fullstack Software Developer</h2>
           <Scroll to="contact" spy={true} smooth={true}><button className='send-btn'>Contact</button></Scroll>
         
