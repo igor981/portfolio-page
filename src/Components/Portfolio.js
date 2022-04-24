@@ -17,6 +17,13 @@ const Portfolio = () => {
                       </p>
                   </li>
                   <li className='card'>
+                      <h1 className='port-name'>Reminder.io</h1>
+                      <p className='porto-description'>
+                      A fullstack Typescript todo application with socket.io. With reminder.io you can create reminders and edit them in real-time with other users. The backend is Node.js, Express, socket.io and mongoDb. In order to create reminders you have to register as a user. From there you can create reminders. You can also set the visibility of the reminder so unauthorized users cant' access that reminder. As a reminder owner you can also lock reminders to prevent other users to edit them. Reminders come with infinite amount of subtasks that you can create. 
+
+                      </p>
+                  </li>
+                  <li className='card'>
                       <h1 className='port-name'>EZlog *In progress*</h1>
                       <p className='porto-description'>
                       A fullstack application using the PERN techstack. EZlog is a ticket system for bugs. As a user you can either create or join an organisation. The organisation consists of members, projects and tickets. You can open or close tickets and you can add individual users to tickets. 
